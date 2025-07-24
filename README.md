@@ -1,13 +1,16 @@
 🛒 Amazon Product Sales Dashboard
 
-1. Project Title / Headline
+1. Project Title / Headline :
+   
 📦 Amazon Product Sales Analysis Dashboard
 An interactive and data-rich Power BI dashboard designed to visualize Amazon product sales performance. The report uncovers trends in revenue, product category sales, customer engagement, and product popularity, enabling e-commerce stakeholders to make informed decisions.
 
-2. Short Description / Purpose
+2. Short Description / Purpose :
+   
 This dashboard provides an analytical overview of Amazon’s product sales using Year-to-Date (YTD) and Quarter-to-Date (QTD) metrics. It helps business analysts and decision-makers understand sales trends, top-performing products, and review dynamics across major product categories.
 
-3. Tech Stack
+3. Tech Stack:
+   
 The dashboard was built using the following tools and technologies:<br>
 • 📊 Power BI Desktop – Main platform for building the report and visuals.<br>
 • 📂 Power Query – Used for data transformation and cleanup.<br>
@@ -15,7 +18,8 @@ The dashboard was built using the following tools and technologies:<br>
 • 🧩 Data Modeling – Defined relationships between product categories, sales, reviews, and time data to enable seamless interactivity.<br>
 • 📁 File Format – .pbit (Power BI Template) for reuse, .png for dashboard preview.
 
-4. Data Source
+4. Data Source:
+   
 Source: Simulated e-commerce dataset reflecting real-world sales of Amazon products across different categories.
 
 The dataset includes:
@@ -26,10 +30,10 @@ The dataset includes:
 
 (Note: The dataset is structured manually for learning and dashboarding purposes and is suitable for demonstration, analysis, and interview preparation.)
 
-5. Features / Highlights
+5. Features / Highlights:
+   
 • Business Problem
 E-commerce companies generate massive data daily, yet often lack clear, visual tools to understand:
-
 1)Which categories are performing best?
 2)What are the quarterly growth patterns?
 3)Which products drive the most engagement?
@@ -73,7 +77,7 @@ High-Level KPIs (Top Center):
 🔍 Product Optimization: Use review volume to identify high-engagement products that may benefit from promotion.
 ⏱️ Time-based Decisions: Spot high-performing sales periods (like Q4) to align campaigns and stock.
 
-6. Screenshots / Demos
+6. Screenshots / Demos :
 
 ![Dashboard Preview](https://github.com/harshith990/Amazon_SalesData_Analysis/blob/main/Dashboard.png)
 
