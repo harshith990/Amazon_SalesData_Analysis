@@ -75,5 +75,5 @@ High-Level KPIs (Top Center):
 
 6. Screenshots / Demos
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/harshith990/Amazon_SalesData_Analysis/blob/main/Dashboard.png)
 
